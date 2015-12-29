@@ -1,0 +1,17 @@
+name
+country
+dob
+Religion
+education/Universities related to
+relatives/friends
+founder
+ceo
+Board Member
+companies related to
+investment
+charity
+events
+Best known for
+Skills/Learnt
+corruption
+allegation/accused/arrest
